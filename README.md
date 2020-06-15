@@ -1,22 +1,14 @@
-# Quasar Todo (quasar-todo)
+# Quasar Framework ★
 
 A Quasar Framework app
+Framework construido em cima do Vuejs com possibilidade de exportar para diversos tipos de plataforma
 
-## Install the dependencies
-```bash
-npm install
-```
+###### [Quasar dev](https://quasar.dev/)
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+#### [Installation](https://quasar.dev/quasar-cli/installation)
+  - npm install -g @quasar/cli
+  - quasar create <folder_name>
+  - cd <folder_name>
+  
+* Para rodar o projeto
+  - quasar dev
